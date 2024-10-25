@@ -28,8 +28,8 @@ We welcome collaboration opportunities and are always looking to connect with:
 
 ## 📞 Contact Information
 
-- **Website**: [https://widhiasihbaliexport.com/]
-- **Email**: [info@cvwidhiasihbaliexport.co.id]
+- **Website**: https://widhiasihbaliexport.com/
+- **Email**: info@cvwidhiasihbaliexport.co.id
 - **Location**: Bali, Indonesia
 
 ## 🔒 Repository Guidelines
