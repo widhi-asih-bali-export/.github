@@ -24,26 +24,19 @@ We welcome collaboration opportunities and are always looking to connect with:
 
 - International buyers and distributors
 - Art galleries and museums
-- Interior designers and decorators
-- Retail chains specializing in home decor
 - Fellow craftspeople and artisans
 
 ## 📞 Contact Information
 
-- **Website**: [Your website URL]
-- **Email**: [Your contact email]
+- **Website**: [https://widhiasihbaliexport.com/]
+- **Email**: [info@cvwidhiasihbaliexport.co.id]
 - **Location**: Bali, Indonesia
-- **Social Media**: [Your social media links]
 
 ## 🔒 Repository Guidelines
 
 This organization's repositories contain:
 
-- Product catalogs
-- Documentation
-- Internal tools and systems
-- Quality control procedures
-- Export documentation templates
+- Custom odoo modules
 
 ## 🌿 Sustainability Commitment
 
